@@ -1,5 +1,6 @@
 
-<img width="587" height="409" alt="hello" src="https://github.com/user-attachments/assets/9c6b3fc6-fb48-408e-ba99-334595fc48f0" />
+<img width="828" height="641" alt="helloOK" src="https://github.com/user-attachments/assets/e2fdd540-f132-4002-97c8-44dfd5d8d737" />
+
 
 # LogCast
 
@@ -65,7 +66,8 @@ python pipeline.py generate # generate drafts only (no UI)
 python pipeline.py post     # post all approved drafts
 ```
 
-<img width="1587" height="1674" alt="settings" src="https://github.com/user-attachments/assets/b4d3fdd2-7407-4489-961d-bda6c8fb207d" />
+<img width="1587" height="1654" alt="settings" src="https://github.com/user-attachments/assets/87c4c68d-a7f8-49b3-b3ec-b095cd973de2" />
+
 
 ## AI Provider
 
