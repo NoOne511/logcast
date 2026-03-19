@@ -1,6 +1,5 @@
 
-<img width="828" height="641" alt="helloOK" src="https://github.com/user-attachments/assets/e2fdd540-f132-4002-97c8-44dfd5d8d737" />
-
+<img width="1271" height="959" alt="helloOK" src="https://github.com/user-attachments/assets/c6139fbd-3289-4c48-8691-b83ef3294e5d" />
 
 # LogCast
 
