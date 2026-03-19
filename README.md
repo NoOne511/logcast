@@ -1,3 +1,6 @@
+
+<img width="587" height="409" alt="hello" src="https://github.com/user-attachments/assets/9c6b3fc6-fb48-408e-ba99-334595fc48f0" />
+
 # LogCast
 
 Build log → social posts. No slop.
@@ -62,6 +65,8 @@ python pipeline.py generate # generate drafts only (no UI)
 python pipeline.py post     # post all approved drafts
 ```
 
+<img width="1587" height="1674" alt="settings" src="https://github.com/user-attachments/assets/b4d3fdd2-7407-4489-961d-bda6c8fb207d" />
+
 ## AI Provider
 
 Default: Ollama (local, free). Change in the UI config panel or edit `CONFIG["provider"]` in `pipeline.py`.
@@ -72,6 +77,9 @@ For small local models (under 14B), LogCast uses a simplified prompt and forces 
 - `qwen2.5:32b` — best local quality, needs 24GB+ RAM
 - `qwen2.5:14b` — good balance, needs 16GB+ RAM
 - `qwen3.5:4b` — works but hit-or-miss on JSON output
+
+<img width="2478" height="1492" alt="posts" src="https://github.com/user-attachments/assets/c1a11b02-c137-49d0-a2c4-4e4eed5f5a4a" />
+
 
 ## Build log format
 
